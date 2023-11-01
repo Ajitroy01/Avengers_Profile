@@ -11,7 +11,7 @@ Welcome to Avengers_Profile, a web application that uses Teachable Machine, HTML
 
 ## Demo
 
-[Check out the live demo](https://your-netlify-link.com)
+[Check out the live demo](https://avengers-profile.netlify.app/)
 
 ![Avengers_Profile Demo](path_to_demo_screenshot.png)
 
