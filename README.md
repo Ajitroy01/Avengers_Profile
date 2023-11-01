@@ -11,12 +11,18 @@ Welcome to Avengers_Profile, a web application that uses Teachable Machine, HTML
 
 ## Demo
 
+### Live Demo
 [Check out the live demo](https://avengers-profile.netlify.app/)
 
+### Screenshots
+
+#### Screenshot 1
 ![Avengers_Profile Demo 1](https://drive.google.com/uc?id=1QVwxmE5Kz1KIbm6SfL1QQKbZCmDSrad0)
 
+#### Screenshot 2
 ![Avengers_Profile Demo 2](https://drive.google.com/uc?id=1W1EW5aQZ6FFfn6z2B--MpBax1v9rd3Ty)
 
+#### Screenshot 3
 ![Avengers_Profile Demo 3](https://drive.google.com/uc?id=1I9LZ-SUqV7Pr17BPvh9I2JctHTNtlVTb)
 
 ## Features
@@ -32,7 +38,7 @@ To get a local copy of the project up and running on your machine, follow these 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/Avengers_Profile.git
+   git clone https://github.com/Ajitroy01/Avengers_Profile.git
   
    ```bash
    cd Avengers_Profile
