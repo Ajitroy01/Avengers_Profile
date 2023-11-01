@@ -13,7 +13,11 @@ Welcome to Avengers_Profile, a web application that uses Teachable Machine, HTML
 
 [Check out the live demo](https://avengers-profile.netlify.app/)
 
-![Avengers_Profile Demo](path_to_demo_screenshot.png)
+![Avengers_Profile Demo 1](https://drive.google.com/uc?id=1QVwxmE5Kz1KIbm6SfL1QQKbZCmDSrad0)
+
+![Avengers_Profile Demo 2](https://drive.google.com/uc?id=1W1EW5aQZ6FFfn6z2B--MpBax1v9rd3Ty)
+
+![Avengers_Profile Demo 3](https://drive.google.com/uc?id=1I9LZ-SUqV7Pr17BPvh9I2JctHTNtlVTb)
 
 ## Features
 
